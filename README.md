@@ -1,10 +1,10 @@
 # UnityScriptIconChanger
 
-A simple utility editor window for changing multiple scripts icons at the same time.
+A simple utility editor window for changing icons of multiple scripts at the same time.
 
 ![Usage screenshot](img/usage.png "Usage")
 
-Currently (Unity 2021.3.24f1) Unity does not allow to change the icon of multiple scripts icons at the same time.
+Currently (Unity 2021.3.24f1) Unity does not allow to change the icon of multiple scripts at the same time.
 You have to manually change the icon of each script one by one and wait for a reimport after each change.
 This is a simple utility editor window that allows to do that in batches.
 
